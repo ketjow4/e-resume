@@ -4,10 +4,15 @@ I am a young and passionate software engineer. I specialize in Machine Learning,
 
 # Work experience
 
+**Tesco Technology - Senior Machine Learning Engineer**
+
+October 2023 - now
+
+Working in the area of MLops providing reliable data pipelines.
 
 **Netguru - Senior Machine Learning Engineer**
 
-May 2023 - now
+May 2023 - September 2023
 
 - Discovery Consultants - consulting technology-specific solutions, best tech fit for a
 given problem, estimations and required team composition, software architecture,
@@ -23,7 +28,7 @@ automatic test assessments operating in Asia and Africa.
 December 2019 - April 2023
 
 - Virtual Try-On solution for shoes, that provides extremely realistic lighting effects.
-- Implementing and deploying machine learning solutions on AWS for application
+- Implementing and deploying machine learning solutions on AWS for applications
 intended to deepen the engagement of users participating in a training program.
 - Ideation, co-organize, run Data Strategy Workshop for one of the biggest discount
 retailer chain in Europe.
@@ -34,10 +39,10 @@ retailer chain in Europe.
 October 2017 - September 2023
 
 - Conducting research in the field of optimizing SVMs using evolutionary
-algorithms. Being a part of research team in a grant project DEEVA
+algorithms. Being a part of the research team in a grant project DEEVA
 - Teaching assistant for numerous courses:
-  -  Computer Programming - those were many courses that ranged from a freshmen year and basic programming in C/C++ up to advance C++ usage of object-oriented programming, templates, STL, design patterns and C++17/20 standards.
-  -  Software Engineering - conducting laboratories which focused on basics of performance analysis and use of profilers,
+  -  Computer Programming - those were many courses that ranged from a freshmen year and basic programming in C/C++ up to advanced C++ usage of object-oriented programming, templates, STL, design patterns, and C++17/20 standards.
+  -  Software Engineering - conducting laboratories that focused on the basics of performance analysis and use of profilers,
   -  Introduction to compilers - 
   -  Scientific computing - 
 
@@ -69,12 +74,12 @@ using the Nvidia Jetson TK1 board.
 # Education 
 
 
-**Phd in Machine Learning**
+**Phd in Machine Learning, graduated with honors**
 
 Thesis: Ensembles of support vector machines with evolutionarily optimized
 hyperparameters and training sets
 
-Silesian University of Technology 2017 - Finishing September 2023
+Silesian University of Technology 2017 - September 2023
 
 **M.Sc. in Computer Science, graduated with honors**
 
@@ -103,7 +108,7 @@ Deep Learning        LaTeX
 
 # Research
 
-My up-to-date resources are located on google scholar
+My up-to-date resources are located on [Google Scholar](https://scholar.google.com/citations?user=bLteF7cAAAAJ&hl=pl)
 
 
 # Personal Projects
